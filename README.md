@@ -1,0 +1,6 @@
+'''
+
+Salary prediction app
+
+
+'''
